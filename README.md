@@ -17,7 +17,9 @@ Below are my features -
 
 
 
-📫 How to reach me: hello@jarvislabs.ai
+📫 Drop me a note at hello@jarvislabs.ai
+
+👉 Follow me on [Twitter](https://twitter.com/jarvislabsai)
 
 ⚡ Fun fact: A robot named Raptor runs twice as fast as a human and is inspired by Velociraptor, a dinosaur.
 
