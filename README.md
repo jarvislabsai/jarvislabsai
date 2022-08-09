@@ -13,7 +13,7 @@ Below are my features -
 - :arrow_right_hook: SSH into the instance to plugin VS Code and stuff.
 - 🚀 Scale :up:/down GPUs on resume.
 - 🚀 Auto-pause using jarviscloud.pause() from your code.
-- :moneybag: Pay per usage minute billing (after first 15minutes from launch).
+- :moneybag: Pay per minute billing.
 
 
 
