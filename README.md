@@ -11,7 +11,7 @@ Below are my features -
 - 🚀 Pause the instance.
 - 🚀 Resume from where you left.
 - :arrow_right_hook: SSH into the instance to plugin VS Code and stuff.
-- 🚀 Scale :up:/down GPUs on resume.
+- 🚀 Scale :up: / down GPUs on resume.
 - 🚀 Auto-pause using jarviscloud.pause() from your code.
 - :moneybag: Pay per minute billing.
 
